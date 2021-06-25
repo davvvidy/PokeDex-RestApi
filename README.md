@@ -9,7 +9,7 @@ Simple rest api to manage pokemons.
 * [Photo](#photo)
 ## General Info
 - Rest Api to manage pokemons in database.
-- The reason for creating this program was to practice new technologies.
+- Created this project to improve my java skills.
 ## Technologies
 Project is created with:
 - Java 11
