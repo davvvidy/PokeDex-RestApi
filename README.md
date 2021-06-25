@@ -19,6 +19,7 @@ Project is created with:
 - Spring Security
 ## Features
 - Pokemon CRUD (get/post/read/put)
+- Pagination
 - Login as User or Admin
 - Authentications
 - Database initializer
